@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=JuYeon_Oh&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=JuYeon_Oh&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+
 
 <h3 align="center">Hi! I'm JuYeon </h3>
 <p align="center">
@@ -28,6 +29,14 @@
   
   
 <h2 align="center"> ✨My Github Stats✨ </h2>
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeon-oh&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=juyeon-oh&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=code-hyun&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-hyun&layout=compact"></p>
   
 
