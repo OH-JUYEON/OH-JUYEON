@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=juyeon-oh&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=code-hyun&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-hyun&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=juyeon-oh&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeon-oh&layout=compact"></p>
   
 
 
